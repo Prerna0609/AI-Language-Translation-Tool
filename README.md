@@ -140,7 +140,7 @@ The app handles the following cases gracefully:
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+This project is provided for educational purposes as part of an AI Internship project.
 
 ---
 
