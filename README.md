@@ -45,8 +45,7 @@ AI-Language-Translation-Tool/
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/<your-username>/AI-Language-Translation-Tool.git
-   cd AI-Language-Translation-Tool
+  git clone https://github.com/Prerna0609/AI-Language-Translation-Tool.git
    ```
 
 2. **(Recommended) Create a virtual environment:**
@@ -146,5 +145,6 @@ This project is open-source and available under the [MIT License](https://openso
 ---
 
 ## 🙋 Author
+Author: Prerna Zende
+Built as part of an AI Internship project.
 
-Built as part of an AI Internship project. Feel free to fork, modify, and use it for learning purposes.
